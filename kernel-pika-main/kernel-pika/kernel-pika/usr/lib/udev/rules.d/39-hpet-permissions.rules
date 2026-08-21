@@ -1,0 +1,2 @@
+KERNEL=="rtc0", GROUP="video"
+KERNEL=="hpet", GROUP="video"

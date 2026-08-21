@@ -1,0 +1,22 @@
+#!/bin/sh
+set -e
+
+#DEBHELPER#
+
+case "$1" in
+    configure)
+        for conf in /etc/systemd/system.conf /etc/systemd/user.conf; do
+            if [ -f "$conf" ]; then
+                if ! grep -q "^DefaultLimitNOFILE=524288" "$conf"; then
+                    echo "DefaultLimitNOFILE=524288" >> "$conf" || true
+                fi
+                if ! grep -q "^DefaultTimeoutStopSec=20s" "$conf"; then
+                    echo "DefaultTimeoutStopSec=20s" >> "$conf" || true
+                fi
+                if ! grep -q "^DefaultDeviceTimeoutSec=20s" "$conf"; then
+                    echo "DefaultDeviceTimeoutSec=20s" >> "$conf" || true
+                fi
+            fi
+        done
+    ;;
+esac

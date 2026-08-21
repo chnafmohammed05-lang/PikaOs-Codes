@@ -1,0 +1,662 @@
+kernel-pika (7.1.8-101pika1) pika; urgency=low
+
+  * 7.1.8
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (7.1.7-101pika1) pika; urgency=low
+
+  * 7.1.7
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (7.1.6-101pika1) pika; urgency=low
+
+  * 7.1.6
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (7.1.4-101pika1) pika; urgency=low
+
+  * 7.1.4
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (7.1.3-101pika1) pika; urgency=low
+
+  * 7.1.3
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (7.1.2-101pika1) pika; urgency=low
+
+  * 7.1.2
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (7.1.1-101pika1) pika; urgency=low
+
+  * 7.1.1
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (7.1.0-101pika2) pika; urgency=low
+
+  * 7.1.0
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (7.0.11-101pika1) pika; urgency=low
+
+  * 7.0.11
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (7.0.8-101pika1) pika; urgency=low
+
+  * 7.0.8
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (7.0.6-101pika1) pika; urgency=low
+
+  * 7.0.6
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (7.0.5-101pika1) pika; urgency=low
+
+  * 7.0.5
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (7.0.2-101pika2) pika; urgency=low
+
+  * 7.0.2
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (7.0.1-101pika1) pika; urgency=low
+
+  * 7.0.1
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (7.0.0-101pika3) pika; urgency=low
+
+  * 7.0.0
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.19.11-101pika1) pika; urgency=low
+
+  * 6.19.11
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.19.8-101pika1) pika; urgency=low
+
+  * 6.19.8
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.19.5-101pika1) pika; urgency=low
+
+  * 6.19.5
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.19.2-101pika4) pika; urgency=low
+
+  * Fix dkms provides
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.19.2-101pika1) pika; urgency=low
+
+  * 6.19.2
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.19.0-101pika1) pika; urgency=low
+
+  * 6.19.0
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.18.8-101pika1) pika; urgency=low
+
+  * 6.18.8
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.18.6-101pika1) pika; urgency=low
+
+  * 6.18.6
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.18.5-101pika3) pika; urgency=low
+
+  * 6.18.5
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.18.4-101pika1) pika; urgency=low
+
+  * 6.18.4
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.18.3-101pika2) pika; urgency=low
+
+  * 6.18.3
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.18.2-101pika1) pika; urgency=low
+
+  * 6.18.2
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.17.8-101pika1) pika; urgency=low
+
+  * 6.17.8
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.17.7-101pika1) pika; urgency=low
+
+  * 6.17.7
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.17.6-101pika1) pika; urgency=low
+
+  * 6.17.6
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.17.5-101pika1) pika; urgency=low
+
+  * 6.17.5
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.17.4-101pika1) pika; urgency=low
+
+  * 6.17.4
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.17.3-101pika1) pika; urgency=low
+
+  * 6.17.3
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.17.2-101pika1) pika; urgency=low
+
+  * 6.17.2
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.17.1-101pika1) pika; urgency=low
+
+  * 6.17.1
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.16.9-101pika2) pika; urgency=low
+
+  * 6.16.9
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.16.8-101pika1) pika; urgency=low
+
+  * 6.16.8
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.16.5-101pika1) pika; urgency=low
+
+  * 6.16.5
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.16.4-101pika1) pika; urgency=low
+
+  * 6.16.4
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.16.3-101pika1) pika; urgency=low
+
+  * 6.16.3
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.16.0-101pika2) pika; urgency=low
+
+  * 6.16.0
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.15.6-101pika1) pika; urgency=low
+
+  * 6.15.6
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.15.4-101pika1) pika; urgency=low
+
+  * 6.15.4
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.15.3-101pika1) pika; urgency=low
+
+  * 6.15.3
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.15.2-101pika2) pika; urgency=low
+
+  * 6.15.2
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.15.0-101pika2) pika; urgency=low
+
+  * 6.15.0
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.14.7-101pika5) pika; urgency=low
+
+  * 6.14.7
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.14.7-101pika4) pika; urgency=low
+
+  * 6.14.6 - revert to this
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.14.7-101pika1) pika; urgency=low
+
+  * 6.14.7
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (6.14.6-101pika3) pika; urgency=low
+
+  * 6.14.6
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.37-101pika1) pika; urgency=low
+
+  * 6.14.6
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.36-101pika1) pika; urgency=low
+
+  * 6.14.5
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.35-101pika1) pika; urgency=low
+
+  * 6.14.4
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.34-101pika5) pika; urgency=low
+
+  * 6.14.3
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.33-101pika7) pika; urgency=low
+
+  * 6.14.2
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.32-101pika4) pika; urgency=low
+
+  * 6.14.1
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.31-101pika4) pika; urgency=low
+
+  * 6.14.0
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.30-101pika2) pika; urgency=low
+
+  * 6.13.6
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.29-101pika2) pika; urgency=low
+
+  * 6.13.4
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.28-101pika2) pika; urgency=low
+
+  * 6.13.3
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.27-101pika1) pika; urgency=low
+
+  * 6.13.2
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.26-101pika1) pika; urgency=low
+
+  * 6.13.1
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.25-101pika1) pika; urgency=low
+
+  * 6.13.0
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.24-101pika1) pika; urgency=low
+
+  * 6.12.10
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.23-101pika1) pika; urgency=low
+
+  * 6.12.9
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.22-101pika1) pika; urgency=low
+
+  * 6.12.8
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.21-101pika1) pika; urgency=low
+
+  * 6.12.7
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.20-101pika1) pika; urgency=low
+
+  * 6.12.6
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.19-101pika1) pika; urgency=low
+
+  * 6.12.5
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.18-101pika1) pika; urgency=low
+
+  * 6.12.4
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.17-101pika1) pika; urgency=low
+
+  * 6.12.3
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.16-101pika1) pika; urgency=low
+
+  * 6.12.1
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.15-101pika3) pika; urgency=low
+
+  * DKMS deps
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.15-101pika1) pika; urgency=low
+
+  * 6.12.0
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.14-101pika1) pika; urgency=low
+
+  * 6.11.8
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.13-101pika1) pika; urgency=low
+
+  * 6.11.7
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.12-101pika1) pika; urgency=low
+
+  * 6.11.6
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.11-101pika1) pika; urgency=low
+
+  * 6.11.5
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.10-101pika1) pika; urgency=low
+
+  * 6.11.4
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.9-101pika1) pika; urgency=low
+
+  * 6.11.3
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.8-101pika1) pika; urgency=low
+
+  * 6.11.2
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.7-101pika1) pika; urgency=low
+
+  * 6.11.1
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.6-101pika1) pika; urgency=low
+
+  * 6.11.0
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.5-101pika1) pika; urgency=low
+
+  * 6.10.10
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.4-101pika1) pika; urgency=low
+
+  * 6.10.7
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.3-101pika1) pika; urgency=low
+
+  * Add ntsync udev
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.2-101pika1) pika; urgency=low
+
+  * Add scx
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.1-101pika1) pika; urgency=low
+
+  * 6.10.5
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (3.0-101pika1) pika; urgency=low
+
+  * 6.10.0
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (2.7-100pika5) pikauwu; urgency=low
+
+  * ACPI Fix
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (2.7-100pika3) pikauwu; urgency=low
+
+  * Add more fixes from nobara
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (2.7-2pika1) pikauwu; urgency=low
+
+  * Add linux-perf
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (2.7-1pika1) pikauwu; urgency=low
+
+  * Kernel 6.8.1
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (2.6-100pika2) pikauwu; urgency=low
+
+  * Pikauwu and 6.6.0
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (2.4-100pika1) pikauwu; urgency=low
+
+  * Pikauwu and 6.5.5
+ 
+-- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (2.3-2pika1.lunar) lunar; urgency=low
+
+  * Goodbye 6.4.9
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (2.3-1pika1.lunar) lunar; urgency=low
+
+  * 6.5.0 update
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (2.2-101pika1.lunar) lunar; urgency=low
+
+  * 6.4.9 update
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (2.2-100pika1.lunar) lunar; urgency=low
+
+  * 6.4.6 update
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (2.2-99pika1.lunar) lunar; urgency=low
+
+  * 6.4.3 update
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (2.1-99pika1.lunar) lunar; urgency=low
+
+  * 6.4 update
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (2.0-99pika3.lunar) lunar; urgency=low
+
+  * Add cpupower and turbostat
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+
+kernel-pika (2.0-99pika2.lunar) lunar; urgency=low
+
+  * Update kernel to 6.3.0
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (2.0) kinetic; urgency=low
+
+  * Update kernel to 6.3.0
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (2.0) kinetic; urgency=low
+
+  * Update kernel to 6.2.6
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (1.9) kinetic; urgency=low
+
+  * Update kernel to 6.2.5
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (1.8) kinetic; urgency=low
+
+  * Switch to new kernel
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+
+kernel-pika (1.5) kinetic; urgency=low
+
+  * Switch to fully custom kernel
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+
+kernel-pika (1.4) kinetic; urgency=low
+
+  * Switch to custom xanmod kernel
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+kernel-pika (1.3) kinetic; urgency=low
+
+  * Initial Creation
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200

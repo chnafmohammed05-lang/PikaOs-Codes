@@ -1,0 +1,114 @@
+Source: kernel-pika
+Section: kernel
+Priority: optional
+Maintainer: Ward Nakchbandi <hotrod.master@hotmail.com>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.1
+
+Package: kernel-pika
+Section: kernel
+Architecture: amd64
+Depends:
+    ${misc:Depends},
+    linux-image-7.1.8-pikaos,
+    linux-headers-7.1.8-pikaos,
+    kernel-pika-config,
+    linux-cpupower,
+    linux-perf,
+    scx,
+    clang,
+    lld,
+    llvm
+Conflicts:
+    linux-image-rt-amd64,
+    linux-image-cloud-amd64,
+    linux-image-amd64,
+# DKMS Of stuff already in pika kernel
+    acpi-call-dkms,
+    wireguard-dkms,
+    v4l2loopback-dkms,
+    wireguard-modules,
+    lenovolegionlinux-dkms
+Provides:
+    linux-headers-generic,
+# DKMS Of stuff already in pika kernel
+    acpi-call-dkms (= 1.2.2),
+    wireguard-dkms (= 1.0.20260606-1.0),
+    v4l2loopback-dkms (= 0.15.3),
+    wireguard-modules (= 1.0.0),
+    lenovolegionlinux-dkms (= 0.0.20)
+Replaces:
+    linux-image-rt-amd64,
+    linux-image-cloud-amd64,
+    linux-image-amd64,
+# DKMS Of stuff already in pika kernel
+    acpi-call-dkms,
+    wireguard-dkms,
+    v4l2loopback-dkms,
+    wireguard-modules,
+    kernel-pika-legacy,
+    lenovolegionlinux-dkms
+Description: metapackage for installing PikaOS kernel
+
+Package: kernel-pika-legacy
+Section: kernel
+Architecture: amd64
+Depends:
+    ${misc:Depends},
+    linux-image-7.1.8-pikaos,
+    linux-headers-7.1.8-pikaos,
+    kernel-pika-config,
+    linux-cpupower,
+    linux-perf,
+    scx,
+    clang,
+    lld,
+    llvm
+Conflicts:
+    linux-image-rt-amd64,
+    linux-image-cloud-amd64,
+    linux-image-amd64,
+# DKMS Of stuff already in pika kernel
+    acpi-call-dkms,
+    wireguard-dkms,
+    v4l2loopback-dkms,
+    wireguard-modules,
+    lenovolegionlinux-dkms
+Provides:
+    linux-headers-generic,
+    kernel-pika,
+# DKMS Of stuff already in pika kernel
+    acpi-call-dkms (= 1.2.2),
+    wireguard-dkms (= 1.0.20260606-1.0),
+    v4l2loopback-dkms (= 0.15.3),
+    wireguard-modules (= 1.0.0),
+    lenovolegionlinux-dkms (= 0.0.20)
+Replaces:
+    linux-image-rt-amd64,
+    linux-image-cloud-amd64,
+    linux-image-amd64,
+    kernel-pika,
+# DKMS Of stuff already in pika kernel
+    acpi-call-dkms,
+    wireguard-dkms,
+    v4l2loopback-dkms,
+    wireguard-modules,
+    lenovolegionlinux-dkms
+Description: metapackage for installing PikaOS kernel
+
+Package: kernel-pika-nvidia
+Section: kernel
+Architecture: amd64
+Depends:
+    kernel-pika,
+    linux-modules-nvidia-7.1.8-pikaos
+Description: metapackage for installing PikaOS kernel with nvidia driver modules
+
+Package: kernel-pika-config
+Section: kernel
+Architecture: amd64
+Depends: ${misc:Depends}
+Description: settings for the PikaOS kernel
+Conflicts: linux-cosmo-config
+Replaces: linux-cosmo-config
+Provides: linux-cosmo-config
