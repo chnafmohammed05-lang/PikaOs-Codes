@@ -1,0 +1,14 @@
+
+
+
+.PHONY: install
+all:
+	true
+
+install:
+		fakeroot dkms build --verbose --dkmstree "${MK_WORKDIR}" -m nvidia/"${DRIVER}" -k "${KERNEL}"
+		install -Dt "$(DESTDIR)/usr/lib/modules/"${KERNEL}"/extramodules" -m644 nvidia/"${DRIVER}"/"${KERNEL}"/"${CARCH}"/module/*
+		find "$(DESTDIR)" -name '*.ko' -exec xz -T1 {} +
+		mkdir -p "$(DESTDIR)"/usr/lib/pika/nvidia-"${DRIVER}"-"${KERNEL}"
+		install -D -m 644 blacklist-pika-nouveau.conf "$(DESTDIR)"/usr/lib/pika/nvidia-"${DRIVER}"-"${KERNEL}"/blacklist-pika-nouveau.conf
+		install -D -m 644 pika-nvidia.conf "$(DESTDIR)"/usr/lib/pika/nvidia-"${DRIVER}"-"${KERNEL}"/pika-nvidia.conf
