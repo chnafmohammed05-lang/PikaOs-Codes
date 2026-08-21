@@ -1,0 +1,14 @@
+--- a/scripts/package/builddeb
++++ b/scripts/package/builddeb
+@@ -125,7 +125,10 @@
+ 
+ 	CC="${DEB_HOST_GNU_TYPE}-gcc" "${srctree}/scripts/package/install-extmod-build" "${pdir}/usr/src/linux-headers-${version}"
+ 
+-	mkdir -p $pdir/lib/modules/$version/
++	mkdir -p "${pdir}/usr/src/linux-headers-${version}/"
++	cp .config "${pdir}/usr/src/linux-headers-${version}/.config"
++    
++    mkdir -p $pdir/lib/modules/$version/
+ 	ln -s /usr/src/linux-headers-$version $pdir/lib/modules/$version/build
+ }
+ 
